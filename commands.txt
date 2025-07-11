@@ -1,0 +1,3 @@
+gcc test.cpp -o test ~~~~~~~ to compile
+./test ~~~~~~~~~~~~~~~~~~~~~to run
+set colorscheme ~~~~~~~~~~~~~~~to chnage the theme in micro editor
